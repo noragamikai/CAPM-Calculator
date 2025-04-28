@@ -32,7 +32,6 @@ capm_return.py: Main Streamlit application file
 requirements.txt: Lists all Python libraries required
 
 README.md: Project documentation
-
 ## Usage:
 -  Open the app in your browser after running streamlit run capm_return.py.
 -   Enter stock tickers (e.g., TSLA, AAPL) in the input field, separated by commas.
